@@ -147,7 +147,7 @@ def scrape_reviews(url):
             reviews.append(comment.text)
 
     driver.quit()
-
+	
     return reviews
 
 
@@ -166,10 +166,17 @@ def main():
     # for prof_name in prof_names:
     #     get_rmp_url(prof_name)
 
-    url = get_rmp_url("MOLNAR")
+    profName = "CENTENO"
+    url = get_rmp_url(profName)
+    # url = get_rmp_url("MOLNAR")
     print(url)
     reviews = scrape_reviews(url)
     print(reviews)
+
+    with open(profName+".txt", "w") as file:
+        for review in reviews:
+            file.write(f"{review}\n")
+	
 
 if __name__ == "__main__":
     main()
