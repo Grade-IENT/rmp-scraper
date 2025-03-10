@@ -1,0 +1,45 @@
+Year,Semester,Course Code,Course Name
+Freshman,Fall,160:159,General Chemistry for Engineers
+Freshman,Fall,160:171,Intro to Experimentation
+Freshman,Fall,355:101,Expository Writing
+Freshman,Fall,440:100,Engineering Orientation
+Freshman,Fall,640:151,Calculus I
+Freshman,Fall,750:123,Analytical Physics IA
+Freshman,Fall,Humanities Elective,Humanities/Social Science Elective
+Freshman,Spring,160:160,General Chemistry for Engineers
+Freshman,Spring,440:127,Intro to Computers for Engineers
+Freshman,Spring,440:221,Engineering Mechanics (Statics)
+Freshman,Spring,640:152,Calculus II
+Freshman,Spring,750:124,Analytical Physics IB
+Sophomore,Fall,635:201,Intro to Materials Science
+Sophomore,Fall,640:244,Differential Equations
+Sophomore,Fall,750:227,Analytical Physics IIA
+Sophomore,Fall,750:229,Analytical Physics IIA Lab
+Sophomore,Fall,Humanities Elective,Humanities/Social Science Elective
+Sophomore,Fall,635:202,Materials Processing
+Sophomore,Fall,540:343,Engineering Economics
+Sophomore,Spring,635:210,Structure and Properties of Materials
+Sophomore,Spring,635:220,Thermodynamics of Materials
+Sophomore,Spring,635:222,Materials Characterization Techniques
+Sophomore,Spring,635:230,Mechanical Behavior of Materials
+Sophomore,Spring,Science Elective,Science Elective
+Junior,Fall,635:305,Electronic and Optical Materials
+Junior,Fall,635:320,Biomaterials
+Junior,Fall,635:321,Nanomaterials
+Junior,Fall,635:330,Polymeric Materials
+Junior,Fall,635:340,Energy Storage Materials
+Junior,Fall,Technical Elective,Technical Elective
+Junior,Fall,Technical Elective,Technical Elective
+Junior,Spring,635:410,Ceramic Materials
+Junior,Spring,635:420,Metals and Alloys
+Junior,Spring,635:430,Composite Materials
+Junior,Spring,635:440,Advanced Materials Processing
+Senior,Fall,635:450,Failure Analysis
+Senior,Fall,635:460,Corrosion Engineering
+Senior,Fall,Departmental Elective,Departmental Elective
+Senior,Fall,Departmental Elective,Departmental Elective
+Senior,Fall,Technical Elective,Technical Elective
+Senior,Spring,635:490,Senior Design I
+Senior,Spring,635:491,Senior Design II
+Senior,Spring,Departmental Elective,Departmental Elective
+Senior,Spring,Technical Elective,Technical Elective

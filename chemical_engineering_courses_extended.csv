@@ -1,0 +1,31 @@
+Year,Semester,Course Code,Course Name
+Freshman,Fall,14:440:101,Introduction to Data-Driven Design for Engineering Applications
+Freshman,Fall,01:160:159,General Chemistry for Engineers
+Freshman,Fall,01:160:171,Introduction to Experimentation
+Freshman,Fall,01:355:101,College Writing
+Freshman,Fall,01:640:151,Calculus for Mathematical and Physical Sciences I
+Freshman,Fall,01:750:123,Analytical Physics I
+Freshman,Spring,14:440:102,Integrated Data-Driven Design for Engineering Applications
+Freshman,Spring,01:160:160,General Chemistry for Engineers II
+Freshman,Spring,01:640:152,Calculus for Mathematical and Physical Sciences II
+Freshman,Spring,01:750:124,Analytical Physics IB
+Freshman,Spring,14:440:221,Engineering Mechanics: Statics
+Freshman,Spring,Humanities Elective,Humanities/Social Science Elective
+Sophomore,Fall,14:155:201,Material & Energy Balances
+Sophomore,Fall,14:155:298,Professional Skills Development
+Sophomore,Fall,01:160:307,Organic Chemistry I
+Sophomore,Fall,01:640:251,Multivariable Calculus
+Sophomore,Fall,01:750:227,Analytical Physics II
+Sophomore,Spring,14:155:208,Thermodynamics I
+Junior,Fall,14:155:303,Transport Phenomena I
+Junior,Fall,14:155:307,Computational Methods in Chemical Engineering
+Junior,Fall,14:155:309,Thermodynamics II
+Junior,Fall,01:160:311,Organic Chemistry Lab
+Junior,Fall,Technical Elective,Technical Elective
+Junior,Spring,14:155:304,Transport Phenomena II
+Senior,Fall,14:155:411,Biochemical Engineering
+Senior,Fall,14:155:415,Process Engineering Lab I
+Senior,Fall,14:155:422,Process Simulation & Control
+Senior,Spring,14:155:416,Processing Engineering Lab II
+Senior,Spring,14:155:428,Design II
+Senior,Spring,General Elective,General Elective

@@ -1,0 +1,43 @@
+Year,Semester,Course Code,Course Name
+Freshman,Fall,01:160:159,General Chemistry for Engineers
+Freshman,Fall,01:160:171,Intro to Experimentation
+Freshman,Fall,01:355:101,Expository Writing
+Freshman,Fall,14:440:100,Engineering Orientation
+Freshman,Fall,01:640:151,Calculus I
+Freshman,Fall,01:750:123,Analytical Physics IA
+Freshman,Fall,Humanities Elective,Humanities/Social Science Elective
+Freshman,Spring,01:160:160,General Chemistry for Engineers
+Freshman,Spring,14:440:127,Intro to Computers for Engineers
+Freshman,Spring,14:440:221,Engineering Mechanics: Statics
+Freshman,Spring,01:640:152,Calculus II
+Freshman,Spring,01:750:124,Analytical Physics IB
+Freshman,Spring,Humanities Elective,Humanities/Social Science Elective
+Sophomore,Fall,01:640:251,Multivariable Calculus
+Sophomore,Fall,01:750:227,Analytical Physics IIA
+Sophomore,Fall,01:750:229,Analytical Physics IIA Lab
+Sophomore,Fall,14:440:301,Introduction to Packaging Engineering
+Sophomore,Fall,14:440:302,CAD for Packaging Engineering
+Sophomore,Fall,14:540:343,Engineering Economics
+Sophomore,Spring,01:640:244,Differential Equations
+Sophomore,Spring,14:440:222,Engineering Mechanics: Dynamics
+Sophomore,Spring,33:799:301,Introduction to Supply Chain
+Sophomore,Spring,Packaging Elective,Packaging Elective
+Sophomore,Spring,Humanities Elective 300+,Humanities/Social Science Elective (300+)
+Junior,Fall,14:440:371,Packaging Evaluation
+Junior,Fall,14:440:470,Packaging Lab I
+Junior,Fall,Packaging Elective,Packaging Elective
+Junior,Fall,Mechanics Elective,Mechanics Elective
+Junior,Fall,Statistics Elective,Statistics Elective
+Junior,Spring,14:440:418,Packaging Development Processes
+Junior,Spring,14:440:471,Distribution Packaging
+Junior,Spring,14:440:473,Packaging Lab II
+Junior,Spring,Packaging Elective,Packaging Elective
+Junior,Spring,01:355:302,Scientific & Technical Writing
+Senior,Fall,14:440:373,Packaging Manufacturing I
+Senior,Fall,14:440:419,Innovation & Design
+Senior,Fall,Humanities Elective 300+,Humanities/Social Science Elective (300+)
+Senior,Fall,Technical Elective,Technical Elective
+Senior,Spring,14:440:420,Senior Design Project
+Senior,Spring,14:440:477,Packaging Manufacturing II
+Senior,Spring,Packaging Elective,Packaging Elective
+Senior,Spring,Science Elective,Science Elective

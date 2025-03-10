@@ -1,0 +1,45 @@
+Year,Semester,Course Code,Course Name
+Freshman,Fall,160:159,General Chemistry for Engineers
+Freshman,Fall,160:171,Intro to Experimentation
+Freshman,Fall,355:101,Expository Writing
+Freshman,Fall,440:100,Engineering Orientation
+Freshman,Fall,640:151,Calculus I
+Freshman,Fall,750:123,Analytical Physics IA
+Freshman,Fall,Humanities Elective,Humanities/Social Science Elective
+Freshman,Spring,160:160,General Chemistry for Engineers
+Freshman,Spring,440:127,Intro to Computers for Engineers
+Freshman,Spring,440:221,Engineering Mechanics (Statics)
+Freshman,Spring,640:152,Calculus II
+Freshman,Spring,750:124,Analytical Physics IB
+Sophomore,Fall,440:222,Engineering Mechanics (Dynamics)
+Sophomore,Fall,640:244,Differential Equations
+Sophomore,Fall,640:251,Multivariable Calculus
+Sophomore,Fall,650:291,Mechanics of Materials
+Sophomore,Fall,650:388,CAD in MAE
+Sophomore,Fall,650:361,Mechatronics
+Sophomore,Fall,750:227,Analytical Physics IIA
+Sophomore,Spring,650:351,Thermodynamics
+Sophomore,Spring,750:228,Analytical Physics IIB
+Sophomore,Spring,750:229,Analytical Physics IIA Lab
+Sophomore,Spring,750:230,Analytical Physics IIB Lab
+Sophomore,Spring,650:289,Professional Development & Leadership in ME
+Junior,Fall,540:343,Engineering Economics
+Junior,Fall,635:407,Mechanical Properties of Materials
+Junior,Fall,640:421,Advanced Calculus
+Junior,Fall,650:312,Fluid Mechanics
+Junior,Fall,650:342,Design of Mechanical Components
+Junior,Fall,650:439,Multiphysics Simulations
+Junior,Fall,650:350,MAE Measurements w/Lab
+Junior,Spring,Technical Elective,Technical Elective
+Junior,Spring,Technical Elective,Technical Elective
+Junior,Spring,General Elective,General Elective
+Junior,Spring,General Elective,General Elective
+Senior,Fall,650:431,Mechanical/Aerospace Engineering Lab I
+Senior,Fall,650:467,Design & Manufacturing I
+Senior,Fall,650:481,Heat Transfer
+Senior,Fall,650:4XX,Department/Aero/Energy Core
+Senior,Fall,Humanities Elective,Humanities/Social Science Elective
+Senior,Spring,650:401,System Dynamics & Controls
+Senior,Spring,650:468,Design & Manufacturing II
+Senior,Spring,650:432/3/5,Mechanical/Aero/Energy Lab II
+Senior,Spring,650:4XX,Department/Aero/Energy Core
